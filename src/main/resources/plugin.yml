@@ -1,0 +1,4 @@
+name: RewardVeterans
+version: '${project.version}'
+main: org.twindev.rewardveterans.RewardVeterans
+api-version: '1.13'
